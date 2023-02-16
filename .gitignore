@@ -1,3 +1,4 @@
 .vscode/launch.json
-datasets/zomer temp.csv
-datasets/housing/housing.csv
+my_california_housing_model.pkl
+datasets/
+california.png
