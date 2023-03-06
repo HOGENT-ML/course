@@ -1,4 +1,5 @@
 .vscode/launch.json
 my_california_housing_model.pkl
-datasets/
+/datasets/housing/*
 california.png
+housing.csv
