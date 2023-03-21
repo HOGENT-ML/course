@@ -1,0 +1,1001 @@
+StudentID,gender,race/ethnicity,parental level of education
+0,female,group B,bachelor's degree
+1,female,group C,some college
+2,female,group B,master's degree
+3,male,group A,associate's degree
+4,male,group C,some college
+5,female,group B,associate's degree
+6,female,group B,some college
+7,male,group B,some college
+8,male,group D,high school
+9,female,group B,high school
+10,male,group C,associate's degree
+11,male,group D,associate's degree
+12,female,group B,high school
+13,male,group A,some college
+14,female,group A,master's degree
+15,female,group C,some high school
+16,male,group C,high school
+17,female,group B,some high school
+18,male,group C,master's degree
+19,female,group C,associate's degree
+20,male,group D,high school
+21,female,group B,some college
+22,male,group D,some college
+23,female,group C,some high school
+24,male,group D,bachelor's degree
+25,male,group A,master's degree
+26,male,group B,some college
+27,female,group C,bachelor's degree
+28,male,group C,high school
+29,female,group D,master's degree
+30,female,group D,some college
+31,female,group B,some college
+32,female,group E,master's degree
+33,male,group D,some college
+34,male,group E,some college
+35,male,group E,associate's degree
+36,female,group D,associate's degree
+37,female,group D,some high school
+38,female,group D,associate's degree
+39,male,group B,associate's degree
+40,male,group C,associate's degree
+41,female,group C,associate's degree
+42,female,group B,associate's degree
+43,male,group B,some college
+44,female,group E,associate's degree
+45,male,group B,associate's degree
+46,female,group A,associate's degree
+47,female,group C,high school
+48,female,group D,associate's degree
+49,male,group C,high school
+50,male,group E,some college
+51,male,group E,associate's degree
+52,male,group C,some college
+53,male,group D,high school
+54,female,group C,some high school
+55,female,group C,high school
+56,female,group E,associate's degree
+57,male,group D,associate's degree
+58,male,group D,some college
+59,female,group C,some high school
+60,male,group E,bachelor's degree
+61,male,group A,some high school
+62,male,group A,associate's degree
+63,female,group C,associate's degree
+64,female,group D,some high school
+65,male,group B,some high school
+66,male,group D,some high school
+67,female,group C,some college
+68,male,group B,associate's degree
+69,female,group C,associate's degree
+70,female,group D,some college
+71,male,group D,some college
+72,female,group A,associate's degree
+73,male,group C,some high school
+74,male,group C,some high school
+75,male,group B,associate's degree
+76,male,group E,some high school
+77,male,group A,bachelor's degree
+78,female,group D,some high school
+79,female,group E,master's degree
+80,female,group B,associate's degree
+81,male,group B,high school
+82,male,group A,some college
+83,male,group E,associate's degree
+84,male,group D,high school
+85,female,group C,some college
+86,female,group C,some college
+87,female,group D,associate's degree
+88,female,group A,some college
+89,female,group D,some high school
+90,female,group C,bachelor's degree
+91,male,group C,high school
+92,male,group C,high school
+93,male,group C,associate's degree
+94,female,group B,some college
+95,male,group C,associate's degree
+96,male,group B,some high school
+97,female,group E,some college
+98,female,group D,some college
+99,female,group D,bachelor's degree
+100,male,group B,some college
+101,male,group D,bachelor's degree
+102,female,group D,associate's degree
+103,male,group B,high school
+104,male,group C,some college
+105,female,group C,some college
+106,female,group D,master's degree
+107,male,group E,associate's degree
+108,female,group B,associate's degree
+109,female,group B,some high school
+110,female,group D,associate's degree
+111,male,group C,high school
+112,male,group A,associate's degree
+113,female,group D,some college
+114,female,group E,bachelor's degree
+115,male,group C,high school
+116,female,group B,bachelor's degree
+117,female,group D,bachelor's degree
+118,female,group D,some high school
+119,female,group C,some college
+120,female,group C,bachelor's degree
+121,male,group B,associate's degree
+122,female,group C,some college
+123,male,group D,high school
+124,male,group E,some college
+125,female,group B,high school
+126,male,group B,some high school
+127,male,group D,some college
+128,male,group D,master's degree
+129,female,group A,bachelor's degree
+130,male,group D,master's degree
+131,male,group C,some high school
+132,male,group E,some college
+133,female,group C,some college
+134,male,group D,bachelor's degree
+135,male,group C,bachelor's degree
+136,male,group B,some high school
+137,male,group E,high school
+138,female,group C,associate's degree
+139,male,group D,some college
+140,female,group D,some high school
+141,female,group C,some college
+142,female,group E,some college
+143,male,group A,high school
+144,male,group D,some college
+145,female,group C,some college
+146,male,group B,some high school
+147,male,group C,associate's degree
+148,female,group D,bachelor's degree
+149,male,group E,associate's degree
+150,male,group A,some high school
+151,male,group A,bachelor's degree
+152,female,group B,associate's degree
+153,male,group D,bachelor's degree
+154,male,group D,some high school
+155,female,group C,some college
+156,female,group E,high school
+157,male,group B,some college
+158,female,group B,associate's degree
+159,male,group D,associate's degree
+160,male,group B,associate's degree
+161,female,group E,some college
+162,male,group B,master's degree
+163,male,group C,high school
+164,female,group E,master's degree
+165,female,group C,bachelor's degree
+166,male,group C,high school
+167,female,group B,master's degree
+168,female,group B,high school
+169,female,group C,some college
+170,male,group A,high school
+171,male,group E,some high school
+172,female,group D,some college
+173,female,group C,associate's degree
+174,female,group C,bachelor's degree
+175,female,group C,master's degree
+176,female,group B,high school
+177,female,group C,associate's degree
+178,female,group B,master's degree
+179,female,group D,some high school
+180,male,group C,master's degree
+181,female,group C,some college
+182,female,group E,high school
+183,female,group D,associate's degree
+184,male,group C,some high school
+185,male,group C,associate's degree
+186,male,group E,high school
+187,male,group D,some high school
+188,male,group B,some high school
+189,female,group C,bachelor's degree
+190,female,group E,associate's degree
+191,male,group D,some college
+192,female,group B,some high school
+193,male,group D,some college
+194,female,group C,master's degree
+195,male,group D,associate's degree
+196,male,group C,some high school
+197,male,group E,high school
+198,female,group B,some college
+199,female,group B,bachelor's degree
+200,female,group C,associate's degree
+201,female,group D,some college
+202,male,group C,associate's degree
+203,female,group B,associate's degree
+204,male,group C,some college
+205,male,group D,some high school
+206,male,group E,bachelor's degree
+207,male,group E,high school
+208,female,group B,some college
+209,female,group B,some college
+210,male,group D,some high school
+211,male,group C,some college
+212,female,group C,high school
+213,male,group C,associate's degree
+214,male,group E,high school
+215,male,group B,some high school
+216,female,group E,associate's degree
+217,female,group C,high school
+218,male,group B,high school
+219,male,group B,some high school
+220,female,group D,high school
+221,male,group B,associate's degree
+222,female,group C,some high school
+223,male,group D,some high school
+224,female,group B,associate's degree
+225,female,group E,master's degree
+226,female,group C,some college
+227,male,group D,high school
+228,male,group A,some high school
+229,female,group C,some college
+230,male,group D,some college
+231,male,group C,associate's degree
+232,female,group B,bachelor's degree
+233,male,group E,some high school
+234,male,group C,bachelor's degree
+235,male,group D,associate's degree
+236,male,group D,bachelor's degree
+237,female,group D,some high school
+238,male,group B,some college
+239,male,group C,associate's degree
+240,male,group D,high school
+241,female,group E,bachelor's degree
+242,female,group D,high school
+243,male,group E,some college
+244,male,group D,some high school
+245,male,group C,associate's degree
+246,male,group E,associate's degree
+247,female,group B,high school
+248,female,group B,high school
+249,male,group C,high school
+250,male,group A,some high school
+251,female,group D,some college
+252,female,group B,some high school
+253,male,group D,master's degree
+254,male,group D,high school
+255,female,group E,some college
+256,female,group C,associate's degree
+257,male,group C,associate's degree
+258,female,group B,some college
+259,female,group C,master's degree
+260,female,group C,some high school
+261,male,group C,some college
+262,female,group C,some high school
+263,female,group E,high school
+264,male,group D,high school
+265,male,group D,some high school
+266,female,group C,bachelor's degree
+267,female,group D,high school
+268,female,group D,associate's degree
+269,female,group E,some college
+270,male,group C,bachelor's degree
+271,male,group C,some college
+272,female,group D,associate's degree
+273,female,group D,some college
+274,male,group B,some college
+275,male,group C,bachelor's degree
+276,female,group C,some high school
+277,female,group E,high school
+278,female,group C,some high school
+279,male,group B,bachelor's degree
+280,male,group D,high school
+281,male,group D,high school
+282,female,group D,bachelor's degree
+283,female,group D,some college
+284,female,group B,some high school
+285,male,group B,associate's degree
+286,male,group E,associate's degree
+287,female,group B,some high school
+288,male,group B,bachelor's degree
+289,male,group E,some high school
+290,male,group C,associate's degree
+291,male,group D,some high school
+292,male,group C,some high school
+293,female,group E,bachelor's degree
+294,male,group D,high school
+295,male,group B,associate's degree
+296,male,group A,some high school
+297,male,group E,associate's degree
+298,male,group C,high school
+299,male,group D,associate's degree
+300,male,group A,some college
+301,male,group D,some high school
+302,female,group C,associate's degree
+303,male,group B,associate's degree
+304,female,group C,associate's degree
+305,male,group A,some college
+306,male,group E,some college
+307,male,group C,some high school
+308,female,group B,associate's degree
+309,female,group D,high school
+310,female,group B,associate's degree
+311,male,group B,bachelor's degree
+312,male,group D,bachelor's degree
+313,female,group C,associate's degree
+314,female,group C,bachelor's degree
+315,male,group C,high school
+316,female,group D,master's degree
+317,male,group C,associate's degree
+318,male,group B,bachelor's degree
+319,female,group D,associate's degree
+320,female,group C,high school
+321,female,group E,high school
+322,female,group C,some college
+323,female,group C,some high school
+324,female,group C,high school
+325,female,group C,some college
+326,male,group C,some college
+327,male,group A,some college
+328,male,group C,associate's degree
+329,female,group B,some high school
+330,male,group C,high school
+331,male,group C,associate's degree
+332,male,group E,associate's degree
+333,male,group B,associate's degree
+334,female,group C,bachelor's degree
+335,female,group B,some college
+336,male,group D,some high school
+337,male,group C,associate's degree
+338,female,group B,some high school
+339,female,group D,some high school
+340,male,group C,high school
+341,female,group C,high school
+342,female,group B,high school
+343,male,group D,associate's degree
+344,male,group D,some college
+345,female,group C,high school
+346,male,group B,some college
+347,female,group C,bachelor's degree
+348,male,group D,high school
+349,male,group E,associate's degree
+350,female,group B,bachelor's degree
+351,male,group E,some college
+352,female,group C,some college
+353,female,group C,associate's degree
+354,female,group C,some college
+355,female,group B,bachelor's degree
+356,male,group A,associate's degree
+357,female,group C,some college
+358,male,group D,some college
+359,female,group D,some college
+360,female,group B,high school
+361,male,group B,some high school
+362,female,group C,some college
+363,female,group D,some high school
+364,male,group C,some college
+365,male,group A,bachelor's degree
+366,male,group C,high school
+367,male,group C,bachelor's degree
+368,female,group A,some high school
+369,female,group D,some high school
+370,male,group E,some college
+371,female,group C,some college
+372,male,group D,some high school
+373,female,group D,some college
+374,female,group D,bachelor's degree
+375,male,group E,associate's degree
+376,female,group D,some high school
+377,female,group D,master's degree
+378,female,group A,some high school
+379,male,group A,bachelor's degree
+380,female,group B,associate's degree
+381,male,group C,associate's degree
+382,male,group C,master's degree
+383,female,group E,some high school
+384,female,group A,some high school
+385,female,group E,some college
+386,female,group E,bachelor's degree
+387,female,group C,associate's degree
+388,female,group D,high school
+389,male,group D,master's degree
+390,male,group E,some high school
+391,female,group D,some college
+392,male,group E,some college
+393,male,group C,associate's degree
+394,female,group C,some high school
+395,male,group A,high school
+396,female,group B,high school
+397,female,group C,associate's degree
+398,male,group B,some high school
+399,male,group D,some high school
+400,female,group C,some high school
+401,male,group A,some college
+402,female,group A,some college
+403,female,group D,high school
+404,female,group C,high school
+405,female,group C,some high school
+406,male,group B,associate's degree
+407,female,group B,associate's degree
+408,female,group D,high school
+409,male,group D,associate's degree
+410,female,group D,master's degree
+411,male,group E,some college
+412,male,group D,associate's degree
+413,male,group B,some high school
+414,female,group C,bachelor's degree
+415,male,group E,high school
+416,male,group C,bachelor's degree
+417,male,group C,associate's degree
+418,male,group D,some college
+419,male,group E,high school
+420,female,group C,associate's degree
+421,female,group D,high school
+422,female,group D,master's degree
+423,female,group A,some high school
+424,male,group B,some college
+425,female,group C,some college
+426,male,group C,bachelor's degree
+427,male,group C,some high school
+428,male,group A,some high school
+429,male,group C,some high school
+430,male,group C,associate's degree
+431,female,group C,high school
+432,male,group C,high school
+433,female,group A,some high school
+434,male,group C,some high school
+435,male,group C,some college
+436,male,group D,associate's degree
+437,male,group D,associate's degree
+438,male,group C,high school
+439,male,group D,some high school
+440,female,group C,some college
+441,female,group D,high school
+442,female,group A,some high school
+443,female,group B,associate's degree
+444,male,group A,some high school
+445,female,group C,some high school
+446,male,group D,some college
+447,male,group C,high school
+448,male,group B,high school
+449,male,group B,associate's degree
+450,female,group C,some college
+451,female,group E,some college
+452,female,group C,associate's degree
+453,male,group C,some college
+454,female,group C,associate's degree
+455,male,group C,bachelor's degree
+456,female,group D,bachelor's degree
+457,male,group D,associate's degree
+458,female,group E,bachelor's degree
+459,male,group B,high school
+460,male,group C,bachelor's degree
+461,male,group B,some college
+462,female,group E,some college
+463,female,group C,some college
+464,male,group A,bachelor's degree
+465,female,group C,some college
+466,female,group D,associate's degree
+467,male,group A,high school
+468,female,group A,high school
+469,male,group C,some college
+470,female,group C,associate's degree
+471,female,group C,high school
+472,female,group C,associate's degree
+473,female,group D,some high school
+474,female,group B,associate's degree
+475,female,group D,bachelor's degree
+476,male,group E,bachelor's degree
+477,male,group D,associate's degree
+478,female,group D,master's degree
+479,male,group E,associate's degree
+480,male,group B,high school
+481,female,group D,associate's degree
+482,male,group C,some college
+483,male,group A,high school
+484,female,group B,associate's degree
+485,male,group C,high school
+486,male,group D,some college
+487,female,group C,associate's degree
+488,male,group B,some high school
+489,male,group A,associate's degree
+490,female,group A,associate's degree
+491,female,group C,associate's degree
+492,female,group C,some college
+493,female,group C,bachelor's degree
+494,female,group B,high school
+495,male,group D,high school
+496,female,group C,some college
+497,female,group D,some college
+498,female,group B,some high school
+499,male,group E,some college
+500,female,group D,master's degree
+501,female,group B,associate's degree
+502,male,group C,some college
+503,female,group E,associate's degree
+504,female,group D,master's degree
+505,female,group B,some high school
+506,male,group A,high school
+507,male,group B,bachelor's degree
+508,male,group C,master's degree
+509,female,group C,bachelor's degree
+510,male,group D,some college
+511,male,group A,some high school
+512,male,group D,some high school
+513,female,group B,some high school
+514,female,group B,master's degree
+515,female,group C,some high school
+516,female,group D,some college
+517,female,group E,some college
+518,female,group D,some high school
+519,female,group B,high school
+520,male,group D,some college
+521,female,group C,associate's degree
+522,male,group D,bachelor's degree
+523,male,group C,master's degree
+524,male,group C,high school
+525,male,group E,some college
+526,male,group C,some high school
+527,female,group C,high school
+528,female,group D,bachelor's degree
+529,female,group C,associate's degree
+530,female,group C,associate's degree
+531,female,group C,some high school
+532,male,group E,associate's degree
+533,female,group E,associate's degree
+534,male,group B,high school
+535,female,group C,bachelor's degree
+536,male,group C,associate's degree
+537,female,group D,high school
+538,male,group E,bachelor's degree
+539,male,group A,associate's degree
+540,male,group C,high school
+541,male,group D,associate's degree
+542,female,group C,associate's degree
+543,female,group D,associate's degree
+544,female,group D,master's degree
+545,male,group E,some high school
+546,female,group A,some high school
+547,male,group C,high school
+548,female,group C,high school
+549,male,group C,master's degree
+550,male,group C,some high school
+551,male,group B,bachelor's degree
+552,female,group B,associate's degree
+553,male,group D,some college
+554,male,group E,associate's degree
+555,female,group C,some college
+556,female,group C,associate's degree
+557,male,group C,master's degree
+558,female,group B,associate's degree
+559,male,group D,some high school
+560,female,group D,some college
+561,female,group C,some college
+562,male,group C,bachelor's degree
+563,female,group D,some college
+564,male,group B,bachelor's degree
+565,male,group B,associate's degree
+566,female,group E,bachelor's degree
+567,female,group D,master's degree
+568,male,group B,high school
+569,male,group D,bachelor's degree
+570,male,group B,some college
+571,male,group A,bachelor's degree
+572,female,group C,some college
+573,female,group C,high school
+574,female,group E,high school
+575,male,group A,associate's degree
+576,male,group A,some college
+577,female,group B,high school
+578,female,group B,some college
+579,female,group D,master's degree
+580,female,group D,some high school
+581,female,group E,some high school
+582,female,group D,bachelor's degree
+583,female,group D,associate's degree
+584,female,group D,some college
+585,female,group C,associate's degree
+586,female,group A,high school
+587,female,group C,bachelor's degree
+588,female,group C,some college
+589,female,group A,some high school
+590,male,group C,some college
+591,male,group A,some high school
+592,male,group E,bachelor's degree
+593,female,group E,high school
+594,female,group C,bachelor's degree
+595,female,group C,bachelor's degree
+596,male,group B,high school
+597,male,group A,some high school
+598,female,group D,high school
+599,female,group D,some high school
+600,female,group D,master's degree
+601,female,group C,high school
+602,female,group E,some college
+603,male,group D,high school
+604,male,group D,master's degree
+605,male,group C,some high school
+606,female,group C,associate's degree
+607,female,group C,master's degree
+608,female,group E,some college
+609,female,group B,associate's degree
+610,male,group D,some college
+611,female,group C,some college
+612,male,group C,bachelor's degree
+613,female,group C,associate's degree
+614,female,group A,associate's degree
+615,female,group C,high school
+616,female,group E,bachelor's degree
+617,male,group D,bachelor's degree
+618,male,group D,master's degree
+619,male,group C,associate's degree
+620,female,group C,high school
+621,male,group B,bachelor's degree
+622,male,group C,high school
+623,male,group A,some college
+624,female,group E,bachelor's degree
+625,male,group D,some college
+626,male,group B,associate's degree
+627,male,group D,associate's degree
+628,male,group D,some college
+629,female,group C,some high school
+630,male,group D,some college
+631,male,group B,high school
+632,female,group B,bachelor's degree
+633,female,group C,high school
+634,male,group D,some high school
+635,male,group A,high school
+636,female,group B,high school
+637,female,group D,some high school
+638,male,group E,some college
+639,female,group D,associate's degree
+640,male,group D,high school
+641,female,group D,associate's degree
+642,female,group B,some high school
+643,female,group E,high school
+644,male,group B,high school
+645,female,group B,bachelor's degree
+646,female,group D,associate's degree
+647,female,group E,high school
+648,female,group B,high school
+649,female,group D,some college
+650,male,group C,some high school
+651,female,group A,high school
+652,female,group D,some college
+653,female,group A,associate's degree
+654,female,group B,some high school
+655,female,group B,some college
+656,male,group C,associate's degree
+657,male,group D,some high school
+658,female,group D,associate's degree
+659,male,group D,associate's degree
+660,male,group C,some college
+661,male,group C,some high school
+662,female,group D,some college
+663,female,group C,high school
+664,male,group D,associate's degree
+665,female,group C,some high school
+666,female,group C,some college
+667,female,group B,bachelor's degree
+668,male,group C,some college
+669,male,group D,associate's degree
+670,female,group C,high school
+671,male,group D,associate's degree
+672,female,group C,some college
+673,female,group C,associate's degree
+674,female,group D,high school
+675,female,group B,some college
+676,female,group E,some college
+677,female,group C,some high school
+678,male,group D,associate's degree
+679,male,group D,some college
+680,female,group D,high school
+681,male,group B,high school
+682,male,group B,high school
+683,female,group C,some high school
+684,male,group B,some college
+685,female,group E,master's degree
+686,male,group E,some college
+687,male,group D,associate's degree
+688,male,group A,high school
+689,male,group E,some college
+690,female,group C,associate's degree
+691,female,group E,associate's degree
+692,female,group C,bachelor's degree
+693,female,group D,associate's degree
+694,female,group C,some high school
+695,female,group D,some college
+696,female,group C,associate's degree
+697,female,group A,bachelor's degree
+698,female,group D,associate's degree
+699,male,group C,high school
+700,female,group E,bachelor's degree
+701,female,group B,some high school
+702,male,group A,bachelor's degree
+703,female,group D,some college
+704,female,group B,some high school
+705,male,group A,bachelor's degree
+706,male,group D,high school
+707,male,group C,some college
+708,male,group D,high school
+709,female,group D,associate's degree
+710,male,group C,some college
+711,female,group E,some high school
+712,female,group D,some college
+713,male,group D,master's degree
+714,female,group B,some high school
+715,female,group B,associate's degree
+716,male,group C,associate's degree
+717,female,group C,associate's degree
+718,female,group C,high school
+719,male,group E,associate's degree
+720,female,group C,some college
+721,male,group D,some high school
+722,female,group B,some high school
+723,male,group C,high school
+724,male,group B,some college
+725,male,group E,some college
+726,female,group E,associate's degree
+727,male,group E,some high school
+728,female,group D,high school
+729,male,group C,some college
+730,female,group B,associate's degree
+731,male,group A,some high school
+732,female,group C,some college
+733,male,group D,some high school
+734,female,group E,some college
+735,male,group C,master's degree
+736,male,group C,associate's degree
+737,female,group B,some college
+738,male,group D,associate's degree
+739,male,group C,high school
+740,male,group D,bachelor's degree
+741,female,group A,associate's degree
+742,female,group C,high school
+743,female,group C,associate's degree
+744,male,group B,some college
+745,male,group D,associate's degree
+746,male,group D,high school
+747,male,group C,some college
+748,female,group C,bachelor's degree
+749,male,group B,some college
+750,male,group D,some high school
+751,male,group E,some college
+752,male,group C,master's degree
+753,female,group C,some high school
+754,male,group C,associate's degree
+755,female,group E,associate's degree
+756,male,group D,some college
+757,male,group E,bachelor's degree
+758,female,group D,some college
+759,male,group B,some college
+760,female,group C,high school
+761,female,group D,some high school
+762,male,group D,some high school
+763,female,group B,high school
+764,male,group D,some college
+765,female,group B,high school
+766,female,group C,high school
+767,male,group B,high school
+768,female,group D,some high school
+769,male,group A,some college
+770,male,group B,high school
+771,male,group D,bachelor's degree
+772,female,group B,some high school
+773,female,group C,bachelor's degree
+774,male,group B,some college
+775,female,group B,some high school
+776,female,group B,high school
+777,female,group C,some college
+778,female,group A,some college
+779,male,group E,associate's degree
+780,female,group D,associate's degree
+781,female,group B,master's degree
+782,female,group B,high school
+783,female,group C,associate's degree
+784,male,group C,bachelor's degree
+785,female,group B,some high school
+786,female,group E,some high school
+787,female,group B,some college
+788,male,group C,associate's degree
+789,female,group C,master's degree
+790,female,group B,high school
+791,female,group D,some college
+792,male,group D,high school
+793,male,group E,some high school
+794,female,group B,high school
+795,female,group E,associate's degree
+796,male,group D,high school
+797,female,group E,associate's degree
+798,male,group E,some college
+799,female,group C,associate's degree
+800,male,group C,some high school
+801,male,group C,some high school
+802,female,group E,associate's degree
+803,female,group B,some college
+804,female,group C,some college
+805,male,group A,some college
+806,female,group D,some college
+807,female,group E,high school
+808,male,group C,high school
+809,male,group B,bachelor's degree
+810,male,group A,some high school
+811,male,group A,high school
+812,female,group C,master's degree
+813,male,group E,some high school
+814,female,group C,high school
+815,male,group B,some high school
+816,female,group A,bachelor's degree
+817,male,group D,bachelor's degree
+818,female,group B,high school
+819,female,group C,some high school
+820,female,group A,some high school
+821,female,group D,bachelor's degree
+822,male,group E,some college
+823,female,group B,high school
+824,female,group C,some high school
+825,male,group C,high school
+826,female,group C,associate's degree
+827,female,group C,some high school
+828,female,group D,some high school
+829,male,group B,some high school
+830,female,group A,some college
+831,female,group C,bachelor's degree
+832,male,group A,bachelor's degree
+833,female,group B,high school
+834,male,group B,some college
+835,female,group C,high school
+836,male,group E,high school
+837,female,group A,high school
+838,male,group B,associate's degree
+839,female,group C,associate's degree
+840,female,group D,high school
+841,male,group C,some high school
+842,female,group B,high school
+843,male,group B,some college
+844,female,group D,some high school
+845,male,group E,master's degree
+846,male,group C,master's degree
+847,male,group D,high school
+848,female,group C,high school
+849,male,group D,associate's degree
+850,male,group C,master's degree
+851,female,group A,high school
+852,female,group E,some college
+853,male,group E,some high school
+854,male,group C,some high school
+855,female,group B,bachelor's degree
+856,male,group B,some college
+857,female,group C,bachelor's degree
+858,male,group B,high school
+859,male,group C,associate's degree
+860,female,group C,associate's degree
+861,female,group E,master's degree
+862,male,group D,bachelor's degree
+863,female,group C,some college
+864,male,group C,associate's degree
+865,male,group D,some college
+866,male,group C,high school
+867,male,group B,associate's degree
+868,male,group E,associate's degree
+869,male,group C,associate's degree
+870,male,group B,high school
+871,female,group C,some college
+872,male,group B,associate's degree
+873,male,group E,associate's degree
+874,female,group C,bachelor's degree
+875,male,group C,some college
+876,male,group D,some college
+877,male,group C,some high school
+878,female,group D,some high school
+879,female,group D,associate's degree
+880,male,group C,bachelor's degree
+881,female,group E,bachelor's degree
+882,female,group B,high school
+883,male,group D,bachelor's degree
+884,female,group E,associate's degree
+885,female,group C,associate's degree
+886,female,group E,associate's degree
+887,male,group C,high school
+888,female,group D,some college
+889,male,group D,high school
+890,female,group E,some college
+891,female,group E,associate's degree
+892,female,group A,master's degree
+893,male,group D,some high school
+894,female,group E,associate's degree
+895,female,group E,some high school
+896,male,group B,high school
+897,female,group B,some high school
+898,male,group D,associate's degree
+899,female,group D,some high school
+900,male,group D,master's degree
+901,female,group C,master's degree
+902,female,group A,high school
+903,female,group D,bachelor's degree
+904,female,group D,some high school
+905,male,group D,some college
+906,male,group B,high school
+907,female,group D,some college
+908,female,group C,bachelor's degree
+909,male,group E,bachelor's degree
+910,male,group D,bachelor's degree
+911,female,group A,some college
+912,female,group C,bachelor's degree
+913,female,group C,bachelor's degree
+914,female,group B,associate's degree
+915,female,group E,some college
+916,male,group E,bachelor's degree
+917,female,group C,high school
+918,female,group C,associate's degree
+919,male,group B,some college
+920,male,group D,high school
+921,female,group C,high school
+922,male,group D,high school
+923,female,group B,associate's degree
+924,male,group D,high school
+925,male,group E,some high school
+926,male,group E,associate's degree
+927,female,group D,high school
+928,male,group E,associate's degree
+929,female,group C,some high school
+930,male,group C,some college
+931,male,group D,some college
+932,male,group D,associate's degree
+933,male,group C,bachelor's degree
+934,male,group C,associate's degree
+935,male,group D,some college
+936,male,group A,associate's degree
+937,female,group E,high school
+938,male,group D,some college
+939,male,group D,some high school
+940,male,group C,master's degree
+941,female,group D,master's degree
+942,male,group C,high school
+943,male,group A,some high school
+944,female,group B,high school
+945,female,group C,associate's degree
+946,male,group B,high school
+947,female,group D,some college
+948,male,group B,some high school
+949,female,group E,high school
+950,male,group E,high school
+951,female,group D,some college
+952,female,group E,some high school
+953,male,group C,high school
+954,female,group C,some college
+955,male,group E,associate's degree
+956,male,group C,some college
+957,female,group D,master's degree
+958,female,group D,high school
+959,male,group C,high school
+960,female,group A,some college
+961,female,group D,some high school
+962,female,group E,associate's degree
+963,female,group C,some high school
+964,male,group D,some college
+965,female,group D,some college
+966,male,group A,some high school
+967,male,group C,some college
+968,female,group E,associate's degree
+969,female,group B,bachelor's degree
+970,female,group D,bachelor's degree
+971,male,group C,some high school
+972,female,group A,high school
+973,female,group D,some college
+974,female,group A,some college
+975,female,group C,some college
+976,male,group B,some college
+977,male,group C,associate's degree
+978,male,group D,high school
+979,female,group C,associate's degree
+980,female,group B,high school
+981,male,group D,some high school
+982,male,group B,some high school
+983,female,group A,some college
+984,female,group C,some high school
+985,male,group A,high school
+986,female,group C,associate's degree
+987,male,group E,some high school
+988,female,group A,some high school
+989,female,group D,some college
+990,male,group E,high school
+991,female,group B,some high school
+992,female,group D,associate's degree
+993,female,group D,bachelor's degree
+994,male,group A,high school
+995,female,group E,master's degree
+996,male,group C,high school
+997,female,group C,high school
+998,female,group D,some college
+999,female,group D,some college
