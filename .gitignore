@@ -3,3 +3,13 @@ my_california_housing_model.pkl
 /datasets/housing/*
 california.png
 housing.csv
+images/dim_reduction/dataset_2d_plot.png
+images/dim_reduction/dataset_3d_plot.png
+.gitignore
+images/dim_reduction/pca_best_projection_plot.png
+images/dim_reduction/swiss_roll_plot.png
+images/dim_reduction/squished_swiss_roll_plot.png
+datasets/emailADS.csv
+datasets/emailICT.csv
+datasets/emailJOB.csv
+datasets/emailNEWS.csv
