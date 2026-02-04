@@ -15,7 +15,7 @@
 ### De data
 
 - Je vertrekt van geaggregeerde data die aanwezig is in een datawarehouse (gestructureerd volgens het sterschema). 
-- Je ontvangt de data als backup van een MS SQL Server database, die je hier kan downloaden: [data/wifi/WifiDWH.bak](data/wifi/WifiDWH.bak) 
+- Je ontvangt de data als backup van een MS SQL Server database, die je hier kan downloaden: [📥 WifiDWH.bak](datasets/wifi/WifiDWH.bak) 
 
 ---
 
