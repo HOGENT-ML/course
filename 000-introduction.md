@@ -57,7 +57,7 @@ Kortom, we zien alle aspecten van de "klassieke" machine learning, maar gaan nie
 
 - **Visual Studio Code** met Python-extensie
 - **Python versie**
-  - ≥ 3.10 en ≤ 3.14
+  - ≥ 3.12 en ≤ 3.14
 - **Python-libraries**
   - Kan je installeren in de loop van de lessen
   - Je kan ook gebruik maken van package manager uv (zie verder)
