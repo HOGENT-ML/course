@@ -1,0 +1,14 @@
+body {
+  font-size: 30px;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: auto;
+}
+
+code {
+  font-size: 0.95em;
+}
+
+pre {
+  font-size: 0.95em;
+}
