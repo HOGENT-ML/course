@@ -1,6 +1,12 @@
+<style>
+.reveal {
+  font-size: 28px;
+}
+</style>
+
 ### Project: 
 
-  **Aanwezigheden tijdens lessen**
+**Aanwezigheden tijdens lessen**
 
 ---
 
