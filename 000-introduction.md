@@ -1,6 +1,13 @@
+<style>
+.reveal {
+  font-size: 24px;
+}
+</style>
+
 # Machine Learning
 ## Inleiding
 
+ 
 **Academiejaar:** 2025–2026
 
 **Lectoren:**
@@ -19,10 +26,21 @@
   
 - **E-book** gratis beschikbaar via de bibliotheek (HOGENT-netwerk):
   - https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=3406174&site=ehost-live
+
+---
+
+## Inhoud (vervolg)
+
 - **Hoofdstukken**:
   - Part I
   - Hoofdstukken 1–9
   - Enkel de onderwerpen die behandeld worden in de github-repository (zie verder) zijn te kennen. 
+
+
+---
+
+## Inhoud (vervolg)
+
 - **Onderwerpen**
   - Klassieke machine-learningtechnieken
   - Supervised en unsupervised learning
@@ -30,6 +48,8 @@
   - Uitrollen van een model in een productieomgeving
 
 Kortom, we zien alle aspecten van de "klassieke" machine learning, maar gaan niet in op neurale netwerken. 
+
+---
 
 **Studiefiche:**
 - https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?a=193602&b=5&c=1
@@ -65,14 +85,17 @@ Kortom, we zien alle aspecten van de "klassieke" machine learning, maar gaan nie
   - Google Colab (online)
   - Anaconda (Python, Jupyter Notebooks en data-libraries lokaal)
 
+---
 
 ## Python package manager uv
-- het gebruik van `uv` is vrijblijvend, maar biedt als voordeel dat je altijd de juiste modules en dependencies hebt.
-- installeer eerst een recente versie van Python
-- installatie: `pip install uv` of `python -m pip install uv`
-- setup environment: 
+
+- het gebruik van `uv` is vrijblijvend, maar biedt als voordeel dat je altijd de juiste modules en dependencies hebt. 
+- installeer eerst een recente versie van Python 
+- installatie: `pip install uv` of `python -m pip install uv` 
+- setup environment:  
   - open cmd-window in `course` directory
   - `uv init`
-  - zet Python versie vast (bijv.): `uv python pin 3.14.2`
+  - zet Python versie vast (bijv.):   
+     `uv python pin 3.14.2`
   - `uv sync`: dit zal alle modules opgelijst in `pyproject.toml` installeren
 - docs: https://docs.astral.sh/uv/ 
