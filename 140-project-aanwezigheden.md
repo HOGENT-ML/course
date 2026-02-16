@@ -51,6 +51,7 @@ in een bepaalde les voor een bepaalde subgroup.
 - Zoek eventueel bijkomende externe data die aanwezigheden kan beïnvloeden
 - Construeer zelf nieuwe, voorspellende **features** (*feature engineering*)
 - Bouw een **regressiemodel** om aanwezigheden te voorspellen voor een bepaalde les (olod), die plaatsvindt op een bepaalde datum/tijd, in een bepaald lokaal en voor een bepaalde klasgroep. 
+- Je drukt de aanwezigheid in een bepaalde les uit als de **_aanwezigheidsgraad_**, dit is het aandeel van het maximaal aantal studenten voor de les dat effectief aanwezig is. 
 
 ---
 
