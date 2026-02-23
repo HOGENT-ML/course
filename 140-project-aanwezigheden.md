@@ -58,7 +58,7 @@ in een bepaalde les voor een bepaalde subgroup.
 ### Opdracht (vervolg)
  
 - Vergelijk verschillende regressiemodellen volgens de geziene best practices
-- Evalueer modellen met meerdere maatstaven, waaronder: **MAPE** (Mean Absolute Percentage Error)
+- Evalueer modellen met meerdere maatstaven, waaronder minstens **MAE** (Mean Absolute Error)
 - Visualiseer en interpreteer de resultaten
 - Maak een rangschikking van de belangrijkste factoren voor de aanwezigheid
 - Bouw een Python-applicatie om het aantal aanwezigen in een bepaalde les te voorspellen. 
