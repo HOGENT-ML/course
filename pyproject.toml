@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "ML basics course"
 requires-python = ">=3.12"
 dependencies = [
+    "catboost>=1.2.9",
+    "ipykernel>=7.2.0",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.0",
@@ -12,4 +15,5 @@ dependencies = [
     "scipy>=1.17.0",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.6",
+    "xgboost>=3.2.0",
 ]
