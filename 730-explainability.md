@@ -80,7 +80,7 @@ The most popular pre-model techniques are visualization methods:
 - UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)
 - clustering methods.
 
-All except UMAP are discussed in the chapters about unsupervised learning
+All except UMAP are discussed in the chapters about unsupervised learning.
 
 ---
 
