@@ -29,7 +29,7 @@ li
 
 --
 
-- This interest comes from the fact that machine learning is becoming an integral part of a lot of decision support systems and is.  
+- This interest comes from the fact that machine learning is becoming an integral part of a lot of decision support systems.  
 - As this importance keeps increasing, questions arise about the justification that can be obtained regarding these models, and researchers start to focus on more interpretable models.
 
 --
@@ -222,7 +222,7 @@ The procedure is simple:
 --
 
 - PDPs are especially useful to interpret nonlinear models. 
-- They provide a visual explanation of the direction and shape of the effect of a feature. We explore this method in the next noteboo. 
+- They provide a visual explanation of the direction and shape of the effect of a feature. We explore this method in the next notebook. 
 
 --
 
