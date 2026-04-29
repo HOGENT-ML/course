@@ -79,8 +79,8 @@ Kortom, we zien alle aspecten van de "klassieke" machine learning, maar gaan nie
 - **Python versie**
   - ≥ 3.12 en ≤ 3.14
 - **Python-libraries**
-  - Kan je installeren in de loop van de lessen
-  - Je kan ook gebruik maken van package manager uv (zie verder)
+  - kan je installeren in de loop van de lessen
+  - je kan ook gebruik maken van package manager uv (zie verder)
 - **Alternatieven**
   - Google Colab (online)
   - Anaconda (Python, Jupyter Notebooks en data-libraries lokaal)
@@ -89,13 +89,13 @@ Kortom, we zien alle aspecten van de "klassieke" machine learning, maar gaan nie
 
 ## Python package manager uv
 
-- het gebruik van `uv` is vrijblijvend, maar biedt als voordeel dat je altijd de juiste modules en dependencies hebt. 
-- installeer eerst een recente versie van Python 
-- installatie: `pip install uv` of `python -m pip install uv` 
-- setup environment:  
+- Het gebruik van `uv` is vrijblijvend, maar biedt als voordeel dat je altijd de juiste modules en dependencies hebt. 
+- Installeer eerst een recente versie van Python 
+- Installatie: `pip install uv` of `python -m pip install uv` 
+- Setup environment:  
   - open cmd-window in `course` directory
   - `uv init`
-  - zet Python versie vast (bijv.):   
+  - zet Python-versie vast (bijv.):   
      `uv python pin 3.14.2`
   - `uv sync`: dit zal alle modules opgelijst in `pyproject.toml` installeren
-- docs: https://docs.astral.sh/uv/ 
+- docs: https://docs.astral.sh/uv/

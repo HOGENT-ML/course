@@ -23,8 +23,8 @@ li
 
 ## 1. Introduction
 
-- subfield of machine learning that tries to make models more understandable by humans. 
-- often opposed to the concept of "black box models" where it is hard to justify why a model makes a certain prediction. 
+- A subfield of machine learning that tries to make models more understandable by humans. 
+- Often opposed to the concept of "black box models" where it is hard to justify why a model makes a certain prediction. 
 - This field is referred to as **explainable artificial intelligence (XAI)**. 
 
 --
@@ -70,7 +70,7 @@ building the ML model.
 **Pre-model interpretability** techniques are 
 - independent of the model
 - take place before model selection (during the data exploration phase): They focus on the data level. 
-- For example, sparsely selecting a low number of intuitive features can help to achieve data interpretability. As this approach requires more a-priori knowledge and is problem dependant, it was less studied than the other two.
+- For example, carefully selecting a low number of intuitive features can help to achieve data interpretability. As this approach requires more a-priori knowledge and is problem dependant, it was less studied than the other two.
 
 --
 
@@ -117,7 +117,7 @@ On the contrary, model-agnostic methods
 - can be applied to any ML model (black box or not)
 - are applied after the model has been trained (post hoc)
 - rely on analyzing pairs of features' input and output. 
-- Usually, model-agnostic explainers are also post-models, sometimes refered to as surrogate models.
+- Usually, model-agnostic explainers are also post-models, sometimes referred to as surrogate models.
 
 --
 
@@ -145,11 +145,11 @@ On the contrary, model-agnostic methods
 
 ---
 
-## 3. Global explainability
+## 2. Global explainability
  
 Different techniques exist to estimate which features are important according to the machine learning model:
  
-### 3.1 Inspecting the mean decrease in impurity
+### 2.1 Inspecting the mean decrease in impurity
 
 - comes directly from tree-based models such as decision trees, random forests, and gradient boosted trees. 
 - Each time a feature is used to split a node, the model reduces an impurity criterion such as the Gini impurity or the entropy. 
@@ -167,7 +167,7 @@ See `feature_importances_` member variable for tree-based models.
 
 ---
 
-### 3.2 Drop feature importance
+### 2.2 Drop feature importance
 
 - also called drop-column importance
 - measures how much model performance decreases when one feature is completely removed from the training process. 
@@ -194,7 +194,7 @@ The procedure is simple:
 
 ---
 
-### 3.3 Permutation based feature importance
+### 2.3 Permutation based feature importance
 
 - model-agnostic alternative. 
 - After a model has been trained, the values of one feature are randomly shuffled in a validation or test set while all other columns stay unchanged. 
@@ -212,7 +212,7 @@ The procedure is simple:
 
 ---
 
-### 3.4 Partial dependence plots
+### 2.4 Partial dependence plots
 
 - Partial dependence plots (PDPs) do not only tell us whether a feature is important, but also how that feature influences the model prediction on average. 
 - The idea is to vary one feature, or a pair of features, over a range of values while averaging the model predictions over all other features in the dataset.
@@ -231,13 +231,13 @@ The procedure is simple:
 
 ---
 
-## 4. Local explainability
-- 4.1 Individual conditional expectation (ICE) plots  
+## 3. Local explainability
+- 3.1 Individual conditional expectation (ICE) plots  
     - display one line per instance that shows how the instance’s prediction changes when a feature changes.
-- 4.3 Shapley values
+- 3.3 Shapley values
     - See further
 
-## 5. reading (optional)
+## 4. reading (optional)
 https://christophm.github.io/interpretable-ml-book/pdp.html
 
 
